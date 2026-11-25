@@ -1,7 +1,6 @@
 @font-face {
-  font-family: 'Arial Nova Bold';
-  src: url('fonts/Arial\ Nova\ Bold.woff2') format('woff2'),
-    url('fonts/Arial\ Nova\ Bold.woff') format('woff');
+  font-family: 'JetBrains Mono';
+  src: url('fonts/JetBrainsMonoNerdFont.ttf') format('ttf');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -9,7 +8,7 @@
 
 body {
   text-align: center;
-  font-family: 'Arial Nova Bold';
+  font-family: 'JetBrains Mono';
 }
 
 h1 {
