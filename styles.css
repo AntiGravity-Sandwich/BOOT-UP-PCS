@@ -3,7 +3,6 @@
   src: url('fonts/JetBrainsMonoNerdFont-Bold.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
-  font-display: swap;
 }
 
 body {
@@ -15,12 +14,14 @@ h1 {
   font-size: 80px;
   margin-bottom: 0px;
   margin-bottom: 0px;
+  font-family: 'JetBrains Mono'
 }
 
 h2 {
   font-size: 60px;
   margin-top: 5px;
   margin-bottom: 10px;
+  font-family: 'JetBrains Mono'
 }
 
 img {
@@ -30,14 +31,17 @@ img {
 p {
   font-size: 25px;
   margin-top: 12px;
+  font-family: 'JetBrains Mono'
 }
 
 h3 {
   font-size: 30px;
   margin-bottom: 0px;
+  font-family: 'JetBrains Mono'
 }
 
 address {
   font-size: 25px;
   margin-top: 12px;
+  font-family: 'JetBrains Mono'
 }
